@@ -22,4 +22,4 @@ https://www.figma.com/proto/CcKmxwYQW1xt4ANWaBijpO/Digital-Agency-Project?node-i
 ## Design Screens
 
 ### Final Design
-![Landing Page](Final-Design/Landing-Page-Design.png)
+![Landing Page](Final-Design/Landing Page Design.png)
